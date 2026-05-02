@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Secure File Management System",
+            "request": "launch",
+            "mainClass": "com.securefiles.main.SecureFileManagementSystem",
+            "projectName": "SecureFileManagementSystem",
+            "sourcePaths": ["${workspaceFolder}/src"],
+            "classPaths": ["${workspaceFolder}/bin"]
+        }
+    ]
+}
